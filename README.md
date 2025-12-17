@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning Angular 17+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mail2shubham7294@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I'm Funny...
+- ⚡ Fun fact: **I'm Funny**😄
 
 <!---
 mail2shubham/mail2shubham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
